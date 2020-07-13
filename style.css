@@ -1,0 +1,39 @@
+body
+{
+    background-image:url("img/marseille-om-velodrome.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+h1
+{
+    margin-top: 5%;
+    text-align: center;
+    color: azure;
+    font-size: 40px;
+    text-shadow: 1px 1px 2px rgb(0, 183, 255), 0 0 1em blue, 0 0 0.2em blue;
+
+}
+
+a
+{
+    color: whitesmoke;
+    text-shadow: 1px 1px 2px rgb(0, 183, 255), 0 0 1em blue, 0 0 0.2em blue;
+    font-size:35px;
+    text-decoration: none;
+
+}
+
+input
+{
+    
+    margin-left: 30%;
+    width: 40%;
+    height: 20px;
+    position:center;
+}
+
+#data
+{
+    color:whitesmoke;
+}
